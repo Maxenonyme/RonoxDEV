@@ -13,6 +13,15 @@ I specialize in creating "advanced" Minecraft mods, ranging from complex new gam
 ### 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RonoxDEV&layout=compact&theme=tokyonight)
 
+### 🛠 Tech Stack & Tools
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Minecraft](https://img.shields.io/badge/Minecraft-616E34?style=for-the-badge&logo=minecraft&logoColor=white)
+![Forge](https://img.shields.io/badge/Forge-DEA584?style=for-the-badge&logo=forge&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 📈 Activity
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RonoxDEV&theme=tokyonight)
+
 ---
 
 ### 📬 Contact me for a project
