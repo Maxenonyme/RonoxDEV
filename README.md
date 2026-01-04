@@ -11,7 +11,6 @@ I specialize in creating "advanced" Minecraft mods, ranging from complex new gam
 * **Optimization:** Performance-oriented development to ensure a smooth gaming experience.
 
 ### 📊 GitHub Stats
-![RonoxDEV's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=RonoxDEV&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RonoxDEV&layout=compact&theme=tokyonight)
 
 ---
