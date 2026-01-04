@@ -18,8 +18,8 @@ Je me spécialise dans la création de mods Minecraft "poussés", allant de nouv
 
 ### 📬 Me contacter pour un projet
 Tu as besoin d'un mod spécifique pour une vidéo YouTube, un projet de serveur moddé ou une commande personnalisée ?
-* **Email :** [ronox765@gmail.com](mailto:ronox765@gmail.com)
-* **Discord :** `ton_pseudo_discord`
+* **Email :** [ronoxdev.contact@gmail.com](ronoxdev.contact@gmail.com)
+* **Discord :** `ronoxdevlopper`
 
 ---
 *« Développer des mondes, un bloc à la fois. »*
