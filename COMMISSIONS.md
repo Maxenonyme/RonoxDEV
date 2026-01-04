@@ -42,7 +42,7 @@
 * **Delivery Time:** Custom quote (3+ weeks)
 * **Price:** **Starting from €100**
 
-📌 **Live Example:** [He Heals You](https://github.com/RonoxDEV/HeHearsYou) (Voice AI Integration)
+📌 **Live Example:** [He Hears You](https://github.com/RonoxDEV/HeHearsYou) (Voice AI Integration)
 
 ---
 
