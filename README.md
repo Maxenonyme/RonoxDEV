@@ -10,9 +10,6 @@ I specialize in creating "advanced" Minecraft mods, ranging from complex new gam
 * **Java Architecture:** Clean, organized, and documented code for easy maintenance.
 * **Optimization:** Performance-oriented development to ensure a smooth gaming experience.
 
-### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RonoxDEV&layout=compact&theme=tokyonight)
-
 ### 🛠 Tech Stack & Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Minecraft](https://img.shields.io/badge/Minecraft-616E34?style=for-the-badge&logo=minecraft&logoColor=white)
