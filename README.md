@@ -19,8 +19,6 @@ I specialize in creating "advanced" Minecraft mods, ranging from complex new gam
 ![Forge](https://img.shields.io/badge/Forge-DEA584?style=for-the-badge&logo=forge&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 📈 Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RonoxDEV&theme=tokyonight)
 
 ---
 
