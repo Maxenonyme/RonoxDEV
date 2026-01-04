@@ -12,15 +12,15 @@
 
 ### 2. 📦 TinyMod (Standard Content)
 *Items, blocks, or simple machines.*
-* **Estimated Price:** **€30 - €70**
+* **Estimated Price:** **€30 - €50**
 
 ### 3. ⚙️ FatMod (Advanced Mechanics)
 *Mixins, complex AI, or GeckoLib animations.*
-* **Estimated Price:** **€80 - €150**
+* **Estimated Price:** **€60 - €110**
 
 ### 4. 💎 CustomMod (High-End & VFX)
 *Advanced rendering (Veil), AI integrations, or unique systems.*
-* **Estimated Price:** **Starting from €200** (Quote based)
+* **Estimated Price:** **Starting from €150** (Quote based)
 
 ---
 *Note: These prices are temporary while I expand my portfolio with new exciting projects!*
