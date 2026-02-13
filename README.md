@@ -1,28 +1,31 @@
 # Hi, I'm Maxenonyme 👋
 
-### 🛠 Java Developer | Minecraft Modding Specialist
-I specialize in creating "advanced" Minecraft mods, ranging from complex new gameplay mechanics to high-end technical systems. Passionate about the Minecraft ecosystem, I turn creative ideas into high-performance code.
+### 🔬 Independent AI Researcher | Specialist in Grokking & Subtractive Architectures
+I specialize in discovering "Invisible Rules" within neural networks. My work focuses on **Mechanistic Interpretability** and **Neuro-Symbolic architectures**, moving away from massive data dependency to focus on pure logical emergence.
 
 ---
 
-### 🚀 What I Do
-* **Advanced Modding:** Developing complex mods using **Forge** & **Fabric** (Custom entities, machine systems, magic, dimensions).
-* **Java Architecture:** Clean, organized, and documented code for easy maintenance.
-* **Optimization:** Performance-oriented development to ensure a smooth gaming experience.
+### 🚀 Major Projects
+* **C.L.E.A.R. Framework:** A subtractive AI architecture that extracts minimal logical kernels (Diamants Logiques) through high-pressure weight decay. 
+* **Axiomatic Duality:** My research on the "Quantum Unifier," demonstrating how minimalist networks can resolve direct logical paradoxes by discovering latent wave-functions.
+* **OpenAura Search:** Implementing advanced search and logic-driven retrieval systems.
+
+### 🧠 Research Areas
+* **Grokking & Phase Transitions:** Studying the sudden shift from memorization to algorithmic understanding.
+* **Subtractive Intelligence:** Developing the "Sieve" (Passoire) methodology to eliminate statistical noise in favor of pure logic.
+* **Logic Transplantation:** Grafting independent reasoning kernels into universal master cores.
 
 ### 🛠 Tech Stack & Tools
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Minecraft](https://img.shields.io/badge/Minecraft-616E34?style=for-the-badge&logo=minecraft&logoColor=white)
-![Forge](https://img.shields.io/badge/Forge-DEA584?style=for-the-badge&logo=forge&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Mathematics](https://img.shields.io/badge/Mathematics-000000?style=for-the-badge&logo=mathematica&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-### 📬 Contact me for a project
-Do you need a specific mod for a YouTube video, a modded server project, or a custom commission?
+### 📬 Scientific Collaboration & Projects
+I am open to collaborations on Mechanistic Interpretability, Grokking research, or any project pushing the boundaries of non-probabilistic AI.
+
 * **Email:** [ronoxdev.contact@gmail.com](mailto:ronoxdev.contact@gmail.com)
-* **Discord:** `ronoxdevlopper`
-
----
-*“Developing worlds, one block at a time.”*
+* **X (Twitter):** [Maxenonyme](https://twitter.com/TonLienTwitter)
