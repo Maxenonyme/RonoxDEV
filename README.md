@@ -45,4 +45,3 @@ Developing custom mechanics, rendering pipelines, and server-side optimization e
 I am open to collaborations on Mechanistic Interpretability, Grokking research, advanced Java engine optimization, or any project pushing the boundaries of non-probabilistic logic.
 
 * **Email:** [ronoxdev.contact@gmail.com](mailto:ronoxdev.contact@gmail.com)
-* **X (Twitter):** [Maxenonyme](https://twitter.com/TonLienTwitter)
