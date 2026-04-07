@@ -26,11 +26,6 @@ Developing custom mechanics, rendering pipelines, and server-side optimization e
 
 ---
 
-### 💻 Software Engineering
-* 🔍 **[OpenAura Search](https://github.com/Maxenonyme/OpenAura-Search):** Implementation of an advanced search and logic-driven retrieval system.
-
----
-
 ### 🛠 Tech Stack & Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
